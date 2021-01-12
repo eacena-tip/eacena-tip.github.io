@@ -42,7 +42,7 @@ title:  "PRELIM EXAM: Hands-On"
 Github: [https://github.com/eacena-tip/sysad2-12021/tree/prelim-exam](https://github.com/eacena-tip/sysad2-12021/tree/prelim-exam)  
 `├── ansible.cfg`  
 `├── group_vars`  
-`    └── varfiles`
+`    └── varfiles`  
 `├── playbook.yaml`  
 `├── invexam`  
 `├── README.md`  
