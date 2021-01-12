@@ -10,7 +10,7 @@ Follow the procedure:
 3. Optimize [Quiz 2.2](https://tip.instructure.com/courses/14417/quizzes/121833) with roles.
 4. Then create a Pull request and put your forked repo in the only question of this quiz (Note answer this quiz as well as create a pull request).  
 ### OUTPUT:  
-Github: [https://github.com/eacena-tipp/sysad2-12021/tree/quiz2.3](https://github.com/eacena-tip/sysad2-12021/tree/quiz2.3)  
+Github: [https://github.com/eacena-tip/sysad2-12021/tree/quiz2.3](https://github.com/eacena-tip/sysad2-12021/tree/quiz2.3)  
 `├── 1811539`  
 `│   ├── quiz23`  
 `│   │   ├── ansible.cfg`  
@@ -64,7 +64,7 @@ Github: [https://github.com/eacena-tipp/sysad2-12021/tree/quiz2.3](https://githu
 `│   │   │       │   └── test.yml`  
 `│   │   │       └── vars`  
 `│   │   │           └── main.yml`  
-`│   │     
+`│   │   `    
 `│   └── README.md`  
 `└── README.md`  
 
