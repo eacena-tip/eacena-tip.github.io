@@ -23,12 +23,12 @@ title:  "MIDTERM: Hands-on Activity 6"
 ### OUTPUT:  
 Github: [https://github.com/qrjhjimenez/sysad2-12021/tree/activity6](https://github.com/qrjhjimenez/sysad2-12021/tree/activity6)
 
-`├── 1811243`  
+`├── 1811539`  
 `│   └── activity6`  
-`│       ├── playact6.yml`  
+`│       ├── playbook.yml`  
 `│       ├── README.md`  
 `│       └── roles`  
-`│           ├── centos`  
+`│           ├── rolescentos`  
 `│           │   ├── defaults`  
 `│           │   │   └── main.yml`  
 `│           │   ├── handlers`  
@@ -43,7 +43,7 @@ Github: [https://github.com/qrjhjimenez/sysad2-12021/tree/activity6](https://git
 `│           │   │   └── test.yml`  
 `│           │   └── vars`  
 `│           │       └── main.yml`  
-`│           └── ubuntu`  
+`│           └── rolesubuntu`  
 `│               ├── defaults`  
 `│               │   └── main.yml`  
 `│               ├── handlers`  
