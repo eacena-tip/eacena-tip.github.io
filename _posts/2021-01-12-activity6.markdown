@@ -21,7 +21,7 @@ title:  "MIDTERM: Hands-on Activity 6"
 8. Request a pull request for the master branch in [https://github.com/ajcanlas-tip/sysad2-12021.git](https://github.com/ajcanlas-tip/sysad2-12021.git)  and activity6 branch of your forked repository.
 
 ### OUTPUT:  
-Github: [https://github.com/qrjhjimenez/sysad2-12021/tree/activity6](https://github.com/qrjhjimenez/sysad2-12021/tree/activity6)
+Github: [https://github.com/eacena-tip/sysad2-12021/tree/activity6](https://github.com/eacena-tip/sysad2-12021/tree/activity6)
 
 `├── 1811539`  
 `│   └── activity6`  
