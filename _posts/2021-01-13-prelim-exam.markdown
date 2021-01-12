@@ -39,13 +39,15 @@ title:  "PRELIM EXAM: Hands-On"
 7. For your prelim exam to be counted, please paste your repository link as an answer in this exam.
 
 ### OUTPUT:  
-Github: [https://github.com/qrjhjimenez/sysad2-12021/tree/prelim-exam](https://github.com/qrjhjimenez/sysad2-12021/tree/prelim-exam)  
+Github: [https://github.com/eacena-tip/sysad2-12021/tree/prelim-exam](https://github.com/eacena-tip/sysad2-12021/tree/prelim-exam)  
 `├── ansible.cfg`  
-`├── config.yaml`  
-`├── preliminv`  
+`├── group_vars`  
+`    └── varfiles`
+`├── playbook.yaml`  
+`├── invexam`  
 `├── README.md`  
 `├── roles`  
-`│   ├── java`  
+`│   ├── installjava`  
 `│   │   ├── defaults`  
 `│   │   │   └── main.yml`  
 `│   │   ├── handlers`  
@@ -60,7 +62,7 @@ Github: [https://github.com/qrjhjimenez/sysad2-12021/tree/prelim-exam](https://g
 `│   │   │   └── test.yml`  
 `│   │   └── vars`  
 `│   │       └── main.yml`  
-`│   ├── motd`  
+`│   ├── installmotd`  
 `│   │   ├── defaults`  
 `│   │   │   └── main.yml`  
 `│   │   ├── handlers`  
@@ -75,7 +77,7 @@ Github: [https://github.com/qrjhjimenez/sysad2-12021/tree/prelim-exam](https://g
 `│   │   │   └── test.yml`  
 `│   │   └── vars`  
 `│   │       └── main.yml`  
-`│   ├── python`  
+`│   ├── installpython`  
 `│   │   ├── defaults`  
 `│   │   │   └── main.yml`  
 `│   │   ├── handlers`  
@@ -105,5 +107,4 @@ Github: [https://github.com/qrjhjimenez/sysad2-12021/tree/prelim-exam](https://g
 `│       │   └── test.yml`  
 `│       └── vars`  
 `│           └── main.yml`  
-`└── variables`  
-`└────└─── vars`  
+
