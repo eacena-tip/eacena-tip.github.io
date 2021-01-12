@@ -21,12 +21,12 @@ title:  "FINAL: Hands-on Activity 7"
 8. Request a pull request for the master branch in [https://github.com/ajcanlas-tip/sysad2-12021.git](https://github.com/ajcanlas-tip/sysad2-12021.git) and activity7 branch of your forked repository  
 
 ### OUTPUT:  
-Github: [https://github.com/qrjhjimenez/sysad2-12021/tree/activity7](https://github.com/qrjhjimenez/sysad2-12021/tree/activity7)  
-`├── 1811243`  
+Github: [https://github.com/eacena-tip/sysad2-12021/tree/activity7](https://github.com/eacena-tip/sysad2-12021/tree/activity7)  
+`├── 1811539`  
 `│   └── activity7`  
-`│       ├── act7.yml`  
+`│       ├── playbook.yml`  
 `│       ├── config.yaml`  
-`│       ├── needed_files`  
+`│       ├── others`  
 `│       │   ├── 02-beats-input.conf`  
 `│       │   ├── 10-syslog-filter.conf`  
 `│       │   ├── 30-elasticsearch-output.conf`  
@@ -38,7 +38,7 @@ Github: [https://github.com/qrjhjimenez/sysad2-12021/tree/activity7](https://git
 `│       │   └── prometheus_service`  
 `│       ├── README.md`  
 `│       └── roles`  
-`│           ├── centos`  
+`│           ├── rolescentos`  
 `│           │   ├── defaults`  
 `│           │   │   └── main.yml`  
 `│           │   ├── handlers`  
@@ -53,7 +53,7 @@ Github: [https://github.com/qrjhjimenez/sysad2-12021/tree/activity7](https://git
 `│           │   │   └── test.yml`  
 `│           │   └── vars`  
 `│           │       └── main.yml`  
-`│           └── ubuntu`  
+`│           └── rolesubuntu`  
 `│               ├── defaults`  
 `│               │   └── main.yml`  
 `│               ├── handlers`  
