@@ -11,16 +11,16 @@ Follow the procedure:
 4. Then create a Pull request and put your forked repo in the only question of this quiz (Note answer this quiz as well as create a pull request).  
 
 ### OUTPUT:  
-Github: [https://github.com/qrjhjimenez/sysad2-12021/tree/quiz2.2](https://github.com/qrjhjimenez/sysad2-12021/tree/quiz2.2)  
+Github: [https://github.com/eacena-tip/sysad2-12021/tree/quiz2.2](https://github.com/eacena-tip/sysad2-12021/tree/quiz2.2)  
 
-`├── 1811243`  
+`├── 1811539`  
 `│   ├── quiz22`  
 `│   │   ├── ansible.cfg`  
 `│   │   ├── group_vars`  
-`│   │   │   └── ubuntu`  
+`│   │   │   └── varfiles`  
 `│   │   ├── playbook.yml`  
-`│   │   ├── README.md`  
-`│   │   └── ubuntu`  
+`│   │   ├── inventory`   
+`│   │   └── playbookfile1.yml`  
 `│   └── README.md`  
 `└── README.md`  
 
