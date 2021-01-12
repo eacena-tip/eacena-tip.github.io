@@ -74,10 +74,11 @@ title:  "PRELIM: Hands-on Activity 2"
 	 This will be recorded based on your PR.  
 
 ### OUTPUT:  
-Github: [https://github.com/qrjhjimenez/sysad2-12021/tree/activity2](https://github.com/qrjhjimenez/sysad2-12021/tree/activity2)  
+Github: [https://github.com/eacena-tip/sysad2-12021/tree/activity2](https://github.com/eacena-tip/sysad2-12021/tree/activity2)  
 
-`├── qrjhjimenez`  
+`├── README.md`  
+`└── eacena-tip`  
 `│   └── activity2`  
 `│       └── HA2.md`  
-`└── README.md`  
+  
 
