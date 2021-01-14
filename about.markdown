@@ -3,8 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-## This portfolio was made by using jekyll
-
-### I am Ryan Joshua Jimenez from CPE31S5 and this is my website portfolio from my course CPE 232-CPE31S6 - Managing Enterprise Servers.
-
-# HAVE A GOOD DAY!!
+## Hi! I'm Erika Acena
+## This is my website and it contains my activities in my course named Managing Enterprise and Servers.
+# Thankyou!!
