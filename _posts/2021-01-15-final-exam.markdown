@@ -29,4 +29,180 @@ title:  "FINAL EXAM: Hands-On"
 *Note: Extra points if you will implement the said services via containerization.*  
 
 ### OUTPUT:  
-Github:
+Github:https://github.com/eacena-tip/sysad2-12021/tree/final-exam
+├── README.md
+├── ansible.cfg
+├── playbook.yml
+├── final-exam.yml
+├── inventory
+└── roles
+│ ├── ftpcentos
+│ │   ├── README.md
+│ │   ├── defaults
+│ │   │   └── main.yml
+│ │   ├── files
+│ │   ├── handlers
+│ │   │   └── main.yml
+│ │   ├── meta
+│ │   │   └── main.yml
+│ │   ├── tasks
+│ │   │   └── main.yml
+│ │   ├── templates
+│ │   ├── tests
+│ │   │   ├── inventory
+│ │   │   └── test.yml
+│ │   └── vars
+│ │   └── main.yml
+│ ├── rolescentosnagios
+│ │   ├── README.md
+│ │   ├── defaults
+│ │   │   └── main.yml
+│ │   ├── files
+│ │   ├── handlers
+│ │   │   └── main.yml
+│ │   ├── meta
+│ │   │   └── main.yml
+│ │   ├── tasks
+│ │   │   └── main.yml
+│ │   ├── templates
+│ │   ├── tests
+│ │   │   ├── inventory
+│ │   │   └── test.yml
+│ │   └── vars
+│ │   └── main.yml
+│ ├── ftpdebian
+│ │   ├── README.md
+│ │   ├── defaults
+│ │   │   └── main.yml
+│ │   ├── files
+│ │   ├── handlers
+│ │   │   └── main.yml
+│ │   ├── meta
+│ │   │   └── main.yml
+│ │   ├── tasks
+│ │   │   └── main.yml
+│ │   ├── templates
+│ │   ├── tests
+│ │   │   ├── inventory
+│ │   │   └── test.yml
+│ │   └── vars
+│ │   └── main.yml
+│ ├── rolesdebiannagios
+│ │   ├── README.md
+│ │   ├── defaults
+│ │   │   └── main.yml
+│ │   ├── files
+│ │   ├── handlers
+│ │   │   └── main.yml
+│ │   ├── meta
+│ │   │   └── main.yml
+│ │   ├── tasks
+│ │   │   └── main.yml
+│ │   ├── templates
+│ │   ├── tests
+│ │   │   ├── inventory
+│ │   │   └── test.yml
+│ │   └── vars
+│ │   └── main.yml
+│ ├── clone_centos
+│ │   ├── README.md
+│ │   ├── defaults
+│ │   │   └── main.yml
+│ │   ├── files
+│ │   ├── handlers
+│ │   │   └── main.yml
+│ │   ├── meta
+│ │   │   └── main.yml
+│ │   ├── tasks
+│ │   │   └── main.yml
+│ │   ├── templates
+│ │   ├── tests
+│ │   │   ├── inventory
+│ │   │   └── test.yml
+│ │   └── vars
+│ │   └── main.yml
+│ ├── clone_nagios
+│ │   ├── README.md
+│ │   ├── defaults
+│ │   │   └── main.yml
+│ │   ├── files
+│ │   ├── handlers
+│ │   │   └── main.yml
+│ │   ├── meta
+│ │   │   └── main.yml
+│ │   ├── tasks
+│ │   │   └── main.yml
+│ │   ├── templates
+│ │   ├── tests
+│ │   │   ├── inventory
+│ │   │   └── test.yml
+│ │   └── vars
+│ │   └── main.yml
+│ ├── clone_opensuse
+│ │   ├── README.md
+│ │   ├── defaults
+│ │   │   └── main.yml
+│ │   ├── files
+│ │   ├── handlers
+│ │   │   └── main.yml
+│ │   ├── meta
+│ │   │   └── main.yml
+│ │   ├── tasks
+│ │   │   └── main.yml
+│ │   ├── templates
+│ │   ├── tests
+│ │   │   ├── inventory
+│ │   │   └── test.yml
+│ │   └── vars
+│ │   └── main.yml
+│ ├── motd
+│ │   ├── README.md
+│ │   ├── defaults
+│ │   │   └── main.yml
+│ │   ├── files
+│ │   ├── handlers
+│ │   │   └── main.yml
+│ │   ├── meta
+│ │   │   └── main.yml
+│ │   ├── tasks
+│ │   │   └── main.yml
+│ │   ├── templates
+│ │   ├── tests
+│ │   │   ├── inventory
+│ │   │   └── test.yml
+│ │   └── vars
+│ │   └── main.yml
+│ ├── ftpopensuse
+│ │   ├── README.md
+│ │   ├── defaults
+│ │   │   └── main.yml
+│ │   ├── files
+│ │   ├── handlers
+│ │   │   └── main.yml
+│ │   ├── meta
+│ │   │   └── main.yml
+│ │   ├── tasks
+│ │   │   └── main.yml
+│ │   ├── templates
+│ │   ├── tests
+│ │   │   ├── inventory
+│ │   │   └── test.yml
+│ │   └── vars
+│ │   └── main.yml
+│ └── rolessusenagios
+│ ├── README.md
+│ ├── defaults
+│ │   └── main.yml
+│ ├── files
+│ ├── handlers
+│ │   └── main.yml
+│ ├── meta
+│ │   └── main.yml
+│ ├── tasks
+│ │   └── main.yml
+│ ├── templates
+│ ├── tests
+│ │   ├── inventory
+│ │   └── test.yml
+│ └── vars
+│ └── main.yml
